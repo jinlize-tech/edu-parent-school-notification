@@ -1,0 +1,24 @@
+{
+  "number": 58,
+  "product_id": "JLZ-EDU-SK-046",
+  "chinese_name": "家校通知生成",
+  "english_name": "Parent School Notification",
+  "repository_name": "edu-parent-school-notification",
+  "product_type": "Skill",
+  "category": "05 家校服务中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-parent-school-notification-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "通知目的、对象、时间、事项、渠道、语气和必须披露的信息",
+  "main_output": "通知正文、标题、短消息版、确认问题、时间表和发布检查",
+  "package_entries": [
+    "edu-parent-school-notification/SKILL.md",
+    "edu-parent-school-notification/references/DOMAIN_GUIDE.md",
+    "edu-parent-school-notification/references/EXAMPLES.md",
+    "edu-parent-school-notification/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

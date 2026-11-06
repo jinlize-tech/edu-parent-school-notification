@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-046",
+  "repository_name": "edu-parent-school-notification",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-parent-school-notification-v1.0.0.zip",
+  "sha256": "54145B1F1998B6D550C046591623846CBECBE51F52FA08B32C73D2D295AA246F",
+  "bytes": 4818,
+  "entries": [
+    "edu-parent-school-notification/SKILL.md",
+    "edu-parent-school-notification/references/DOMAIN_GUIDE.md",
+    "edu-parent-school-notification/references/EXAMPLES.md",
+    "edu-parent-school-notification/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:41:01.4284574+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
